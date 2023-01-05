@@ -1,0 +1,29 @@
+.layer-0{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background: grey;
+}
+
+.layer-1{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background: grey;
+}
+
+.layer-2{
+    display: flex;
+    width: 300px;
+    height: 100px;
+    background: grey;
+}
+
+.cell{
+    
+    border: 1px solid red;
+    width: 100px;
+    height: 100px;
+    font-size: 100px;
+    
+};
